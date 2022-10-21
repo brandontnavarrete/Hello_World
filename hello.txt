@@ -1,3 +1,7 @@
 "Hello, World!"
 "Am I Real? What to feel?"
 
+"New line!"
+
+"4rd line"
+
